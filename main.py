@@ -1,1 +1,0 @@
-print('Parking PRO Android listo')
